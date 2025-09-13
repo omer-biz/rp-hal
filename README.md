@@ -146,7 +146,7 @@ chip - and so no additional support is required.
 ### [rp235x-hal-examples] - Examples for using [rp235x-hal]
 
 This folder contains various examples for how to use the Rust HAL for the
-RP2040. We have examples for the following (plus many more):
+RP235x. We have examples for the following (plus many more):
 
 * GPIO
 * I²C
